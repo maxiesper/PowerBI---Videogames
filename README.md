@@ -1,2 +1,4 @@
 # PowerBI---Videogames
-portfolio sobre ventas de videogames teniendo en cuenta a las grandes empresas de consolas
+
+Análisis de Ventas de Videojuegos
+Este conjunto de datos proporciona una visión integral de las ventas en la industria de los videojuegos a lo largo de diferentes dimensiones, incluyendo categorías, plataformas, géneros y regiones, abarcando varios años. El dataset captura las tendencias globales segmentando los datos en mercados regionales (América del Norte, Europa, Japón y otras regiones), lo que permite un análisis detallado de las diferencias geográficas en las preferencias de los consumidores. También incluye información sobre las ventas por plataforma, ofreciendo información sobre el rendimiento de las consolas, PCs y dispositivos portátiles a lo largo del tiempo. Además, la clasificación por géneros de juegos facilita el análisis de tendencias específicas, brindando una visión completa de la evolución de la industria.
